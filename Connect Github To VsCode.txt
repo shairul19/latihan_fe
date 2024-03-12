@@ -1,0 +1,5 @@
+Berikut cara login github ke vscode
+1) Klik icon profile
+2) Pilih Backup and sync..
+3) Pilih sign in
+4) Sign in with github
