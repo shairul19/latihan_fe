@@ -3,3 +3,14 @@ Berikut cara login github ke vscode
 2) Pilih Backup and sync..
 3) Pilih sign in
 4) Sign in with github
+
+Config githubnya
+1) Buka terminal
+2) git config --global user.email "shairulannam54@gmail.com"
+3) git config --global user.name "shairul19"
+4) Tuliskan git init
+5) git add .
+6) git commit -m "first commit"
+7) git branch -M main
+8) git remote add origin https://github.com/shairul19/latihan_fe.git
+9) git push -u origin main
